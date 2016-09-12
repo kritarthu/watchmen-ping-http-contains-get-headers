@@ -1,6 +1,6 @@
 {
   "name": "watchmen-ping-http-contains-get-headers",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "GET ping service for watchmen. Check if the http response contains certain content",
   "main": "index.js",
   "repository": {
@@ -18,9 +18,9 @@
   "author": "Kritarth",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kritarthu/watchmen-ping-http-get-headers/issues"
+    "url": "https://github.com/kritarthu/watchmen-ping-http-contains-headers/issues"
   },
-  "homepage": "https://github.com/kritarthu/watchmen-ping-http-get-headers#readme",
+  "homepage": "https://github.com/kritarthu/watchmen-ping-http-contains-headers#readme",
   "dependencies": {
     "request": "^2.55.0"
   },
